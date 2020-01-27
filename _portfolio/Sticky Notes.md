@@ -1,7 +1,7 @@
 ---
-title: "Sticky Notes"
-excerpt: "Windows desktop sticky notes application<br/><img src='/images/500x300.png'>"
+title: "[Sticky Notes](https://github.com/hjcho7311/sticky-notes)"
+excerpt: "Windows desktop sticky notes application<br/><img src='/images/sticky-notes.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+With Sticky Notes, you can create notes, add text, stick them to the desktop, move them around there freely, close them.
