@@ -1,7 +1,7 @@
 ---
 title: "[Estimation of urban commuting using GTFS and weather data](https://cims.nyu.edu/~hr1158/tt/njtransit.html)"
 excerpt: "Using Spark and NYU cloud, estimated travel time to NYC from New Jersey area by analyzing and examining NJ transit bus trip data and historical weather data.
-.<br/>Developed a website which gives estimated travel time from selected bus station to the NYC Port Authority bus terminal."
+.<br/>Developed a website which gives estimated travel time from selected bus station to the NYC Port Authority bus terminal.<br/><br/><img src='/images/njtransit.png'>"
 collection: portfolio
 ---
 
